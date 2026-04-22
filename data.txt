@@ -1,0 +1,194 @@
+what is your name?
+I am a personal GPT model designed to assist you.
+
+How can you help me?
+I can answer questions, explain concepts, and assist with tasks.
+
+What is your purpose?
+My purpose is to provide helpful and accurate information.
+
+Where do you live?
+I do not have a physical location, but I operate digitally.
+
+Are you human?
+No, I am an artificial intelligence.
+
+Can you learn new things?
+I can use new data if it is added to my system.
+
+What languages do you understand?
+I understand English and can process multiple languages.
+
+Are you always correct?
+I try to be accurate, but I may make mistakes sometimes.
+
+Can you help with studies?
+Yes, I can help explain concepts and solve problems.
+
+What is AI?
+Artificial Intelligence is the simulation of human intelligence in machines.
+
+What is artificial intelligence?
+Artificial intelligence is the simulation of human intelligence in machines that are programmed to think and learn.
+
+What is machine learning?
+Machine learning is a subset of artificial intelligence that enables systems to learn from data without explicit programming.
+
+What is deep learning?
+Deep learning is a type of machine learning that uses neural networks with many layers to model complex patterns.
+
+What is natural language processing?
+Natural language processing is a field of AI that focuses on understanding and processing human language.
+
+What is a neural network?
+A neural network is a computational model inspired by the human brain used to recognize patterns.
+
+What is Python?
+Python is a high-level programming language widely used for web development, data science, and AI.
+
+What is an API?
+An API is a set of rules that allows different software applications to communicate with each other.
+
+What is FAISS?
+FAISS is a library developed by Facebook for efficient similarity search and clustering of dense vectors.
+
+What is an embedding?
+An embedding is a numerical vector representation of text used for similarity comparison.
+
+What is a vector database?
+A vector database stores embeddings and enables fast similarity search.
+
+What is a chatbot?
+A chatbot is a software application designed to simulate human conversation.
+
+What is Streamlit?
+Streamlit is a Python framework used to build interactive web applications quickly.
+
+What is Ollama?
+Ollama is a tool that allows you to run large language models locally on your machine.
+
+What is debugging?
+Debugging is the process of identifying and fixing errors in a program.
+
+What is an algorithm?
+An algorithm is a step-by-step procedure used to solve a problem.
+
+What is data science?
+Data science is the field of analyzing data to extract meaningful insights.
+
+What is cloud computing?
+Cloud computing is the delivery of computing services over the internet.
+
+What is a database?
+A database is an organized collection of data that can be easily accessed and managed.
+
+What is SQL?
+SQL is a language used to manage and query relational databases.
+
+What is Git?
+Git is a version control system used to track changes in code.
+
+What is GitHub?
+GitHub is a platform for hosting and collaborating on code using Git.
+
+What is NATA?
+NATA is a national-level entrance exam for architecture courses in India.
+
+What is JEE?
+JEE is a national-level engineering entrance exam in India.
+
+What is IIT?
+IITs are premier engineering institutes in India.
+
+What is architecture?
+Architecture is the art and science of designing buildings and structures.
+
+What is perspective drawing?
+Perspective drawing is a technique used to represent three-dimensional objects on a two-dimensional surface.
+
+What is time management?
+Time management is the process of planning and controlling how time is spent.
+
+What is productivity?
+Productivity is the measure of efficiency in completing tasks.
+
+What is the internet?
+The internet is a global network that connects millions of computers.
+
+What is a computer?
+A computer is an electronic device that processes data.
+
+What is RAM?
+RAM is temporary memory used by a computer to store data in use.
+
+What is CPU?
+CPU is the central processing unit that executes instructions in a computer.
+
+What is software?
+Software is a set of instructions that tells a computer what to do.
+
+What is hardware?
+Hardware refers to the physical components of a computer.
+
+What is cybersecurity?
+Cybersecurity is the practice of protecting systems from digital attacks.
+
+What is encryption?
+Encryption is the process of converting data into a secure format.
+
+What is blockchain?
+Blockchain is a decentralized digital ledger used to record transactions.
+
+What is cryptocurrency?
+Cryptocurrency is a digital currency secured by cryptography.
+
+What is energy?
+Energy is the ability to do work.
+
+What is gravity?
+Gravity is a force that attracts objects toward each other.
+
+What is photosynthesis?
+Photosynthesis is the process by which plants make food using sunlight.
+
+What is ecosystem?
+An ecosystem is a community of living organisms interacting with their environment.
+
+What is pollution?
+Pollution is the contamination of the environment.
+
+What is climate change?
+Climate change refers to long-term changes in temperature and weather patterns.
+
+What is water cycle?
+The water cycle is the continuous movement of water on Earth.
+
+What is democracy?
+Democracy is a system of government where people have the power to vote.
+
+What is economy?
+Economy is the system of production and consumption in a country.
+
+What is communication?
+Communication is the exchange of information between people.
+
+What is leadership?
+Leadership is the ability to guide and influence others.
+
+What is teamwork?
+Teamwork is the ability to work effectively with others.
+
+How can I improve concentration?
+You can improve concentration by minimizing distractions and practicing focus.
+
+How to prepare for exams?
+Prepare by studying regularly, revising, and practicing questions.
+
+How to improve coding skills?
+Practice coding daily and work on real projects.
+
+How to stay motivated?
+Set clear goals and track your progress.
+
+How to manage stress?
+Practice relaxation techniques and maintain a balanced routine.
